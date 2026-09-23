@@ -1,0 +1,6 @@
+{
+  "name": "ChitChat - Modern Team Messaging & Workspace",
+  "description": "High-fidelity team messaging, interactive workspace chat, contact directory, and preferences control center with multi-theme customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
